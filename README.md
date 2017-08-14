@@ -11,4 +11,4 @@ https://github.com/wirecube/android_additive_animations
 
 預覽
 --------
-![image](http://i.imgur.com/JNcMSsY.jpg)  
+![image](http://i.imgur.com/4NNLyDN.jpg)  
